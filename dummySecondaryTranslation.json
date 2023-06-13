@@ -1,0 +1,15 @@
+{
+    "de": {
+        "lb_info_login_headline": "[secondaryTranslations] Login DE",
+        "lb_list_filter_status": "[secondaryTranslations] Status",
+        "lb_button_start_signing": "[secondaryTranslations] Unterzeichnen beginnen",
+        "lb_info_accept_terms_linktext": "[secondaryTranslations] Nutzungsbedingungen & Datenschutz",
+        "lb_help": "Help me please!!!"
+    },
+    "en": {
+        "lb_info_login_headline": "[secondaryTranslations] Login EN"
+    },
+    "es": {
+        "lb_info_login_headline": "[secondaryTranslations] Login ES"
+    }
+}
