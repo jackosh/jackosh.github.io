@@ -1,10 +1,11 @@
 {
     "de": {
-        "lb_info_login_headline": "[HOHOHO] Login DE",
-        "lb_list_filter_status": "[secondaryTranslations] Status",
-        "lb_button_start_signing": "[secondaryTranslations] Unterzeichnen beginnen",
-        "lb_info_accept_terms_linktext": "[secondaryTranslations] Nutzungsbedingungen & Datenschutz",
+        "lb_info_login_headline": "WuW Login DE",
+        "lb_list_filter_status": "WuW Status",
+        "lb_button_start_signing": "WuW Unterzeichnen beginnen",
+        "lb_info_accept_terms_linktext": "WuW Nutzungsbedingungen & Datenschutz",
         "lb_help": "Help me please!!!",
+
         "lb_headline_error_page_default": "Fehler 123",
         "lb_headline_error_page_403": "Achtung Achtung, Sie haben keine Berechtigung ...",
         "lb_headline_error_page_403_envelope": "Oops, Sie haben keine Berechtigung für diesen Envelope ...",
@@ -17,12 +18,12 @@
         "lb_headline_error_page_410": "Au weia, die Zeit für diesen Link ist abgelaufen ...",
         "lb_headline_error_page_410_envelope": "Oops, die Zeit für diesen Envelope ist abgelaufen ...",
         "lb_headline_error_page_410_document": "Au weia, die Zeit für dieses Dokument ist abgelaufen ...",
-        "lb_headline_error_page_410_adhoc": "Oops, die Zeit für diesen Link ist abgelaufen ..."
+        "lb_headline_error_page_410_adhoc": "Oops, die Zeit für diesen Link ist abgelaufen ...",
     },
     "en": {
-        "lb_info_login_headline": "[secondaryTranslations] Login EN"
+        "lb_info_login_headline": "WuW Login EN"
     },
     "es": {
-        "lb_info_login_headline": "[secondaryTranslations] Login ES"
+        "lb_info_login_headline": "WuW Login ES"
     }
 }
